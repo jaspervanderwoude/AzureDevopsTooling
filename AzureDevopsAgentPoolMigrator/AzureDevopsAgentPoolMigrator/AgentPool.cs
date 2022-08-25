@@ -1,0 +1,8 @@
+﻿namespace AzureDevopsAgentPoolMigrator
+{
+    public class AgentPool
+    {
+        public string Name { get; set; }
+        public int Id { get; set; }
+    }
+}
